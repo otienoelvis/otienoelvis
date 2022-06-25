@@ -1,5 +1,5 @@
 # Hi there 👋
-# This is me
+This is me, I'm based in Nairobi
 <!--
 **otienoelvis/otienoelvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
