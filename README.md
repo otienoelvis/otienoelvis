@@ -1,10 +1,10 @@
 # Hi there 👋
 # This is me, I'm based in Nairobi
-
+<!--
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=otienoelvis&show_icons=true)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=otienoelvis)
 
-<!--
+
 **otienoelvis/otienoelvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
