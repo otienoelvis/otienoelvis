@@ -1,5 +1,5 @@
 # Hi there 👋
-# This is me, I'm based in Nairobi
+# This is me
 🌐 https://elvisabc.me/
 <!--
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=otienoelvis&show_icons=true)
